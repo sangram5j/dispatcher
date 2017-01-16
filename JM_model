@@ -1,0 +1,5 @@
+SORT_ASC ~/input_dir/name_list.txt ~/output_dir/sorted_name_list.txt
+SORT_DSC ~/input_dir/name_list2.txt ~/output_dir/sorted_name_list2.txt
+AVG ~/input_dir/score_raw.txt ~/output_dir/score_avg.txt
+MED ~/input_dir/score_raw.txt ~/output_dir/score_med.txt
+STD ~/input_dir/score_raw.txt ~/output_dir/score_std.txts
